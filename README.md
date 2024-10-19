@@ -1,4 +1,4 @@
-# QueerWalk.ca: A Pytheas Application
+# Pytheas
 
 Pytheas is a React application that implements a guided walking tour, using Leaflet to visualize a map and Open Route Service to generate walking directions. The work was originally done through a grant funded by the Canadian Urban Institute to create a walking tour of the McDougall Corridor, a historic Black neighbourhood in Windsor, Ontario, and expanded for this implementation in partnership with Walter Cassidy of the Windsor Essex Rainbow Alliance (WERA). You may find that visiting queerwalk.ca gives you some insight into the ways this code can be used in your own project.
 
